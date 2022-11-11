@@ -4,7 +4,11 @@
   background-color: rgb(200, 200, 200);
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
 
-.header-components {
+.title {
+  margin-bottom: 1rem;
 }
